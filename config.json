@@ -1,0 +1,321 @@
+{
+  "active_profile": 0,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "Kupfur",
+      "output_dir": "./overrides/mods",
+      "game_version": "1.18.2",
+      "mod_loader": "Quilt",
+      "mods": [
+        {
+          "name": "'Slight' Gui Modifications",
+          "identifier": {
+            "CurseForgeProject": 380393
+          }
+        },
+        {
+          "name": "3D Skin Layers",
+          "identifier": {
+            "ModrinthProject": "zV5r3pPn"
+          }
+        },
+        {
+          "name": "Amplified Nether",
+          "identifier": {
+            "CurseForgeProject": 552176
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          }
+        },
+        {
+          "name": "Architectury API",
+          "identifier": {
+            "ModrinthProject": "lhGA9TYQ"
+          }
+        },
+        {
+          "name": "Auth Me",
+          "identifier": {
+            "ModrinthProject": "yjgIrBjZ"
+          }
+        },
+        {
+          "name": "bad packets",
+          "identifier": {
+            "ModrinthProject": "ftdbN0KK"
+          }
+        },
+        {
+          "name": "BetterF3",
+          "identifier": {
+            "ModrinthProject": "8shC1gFX"
+          }
+        },
+        {
+          "name": "Blur (Fabric)",
+          "identifier": {
+            "ModrinthProject": "NK39zBp2"
+          }
+        },
+        {
+          "name": "Bobby",
+          "identifier": {
+            "ModrinthProject": "M08ruV16"
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "Concurrent Chunk Management Engine (Fabric)",
+          "identifier": {
+            "ModrinthProject": "VSNURh3q"
+          }
+        },
+        {
+          "name": "DashLoader",
+          "identifier": {
+            "ModrinthProject": "ZfQ3kTvR"
+          }
+        },
+        {
+          "name": "Distant Horizons",
+          "identifier": {
+            "ModrinthProject": "uCdwusMi"
+          }
+        },
+        {
+          "name": "Enhanced Attack Indicator",
+          "identifier": {
+            "ModrinthProject": "eTy17BBS"
+          }
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "identifier": {
+            "ModrinthProject": "OVuFYfre"
+          }
+        },
+        {
+          "name": "ExtraSounds",
+          "identifier": {
+            "ModrinthProject": "uPWCQrVL"
+          }
+        },
+        {
+          "name": "Feature NBT Deadlock Be Gone",
+          "identifier": {
+            "CurseForgeProject": 560323
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "Immersive Portals",
+          "identifier": {
+            "ModrinthProject": "zJpHMkdD"
+          }
+        },
+        {
+          "name": "Immersive Weathering",
+          "identifier": {
+            "ModrinthProject": "jkskOO9i"
+          }
+        },
+        {
+          "name": "Incendium",
+          "identifier": {
+            "CurseForgeProject": 591388
+          }
+        },
+        {
+          "name": "Indium",
+          "identifier": {
+            "ModrinthProject": "Orvt0mRa"
+          }
+        },
+        {
+          "name": "Inspecio",
+          "identifier": {
+            "ModrinthProject": "a93H3mKU"
+          }
+        },
+        {
+          "name": "InvMove",
+          "identifier": {
+            "ModrinthProject": "REfW2AEX"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "Krypton",
+          "identifier": {
+            "ModrinthProject": "fQEb0iXm"
+          }
+        },
+        {
+          "name": "LambDynamicLights",
+          "identifier": {
+            "ModrinthProject": "yBW8D80W"
+          }
+        },
+        {
+          "name": "LazyDFU",
+          "identifier": {
+            "ModrinthProject": "hvFnDODi"
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "Not Enough Crashes",
+          "identifier": {
+            "ModrinthProject": "yM94ont6"
+          }
+        },
+        {
+          "name": "Ok Zoomer",
+          "identifier": {
+            "ModrinthProject": "aXf2OSFU"
+          }
+        },
+        {
+          "name": "Quilt Loading Screen",
+          "identifier": {
+            "ModrinthProject": "VPU6VYVP"
+          }
+        },
+        {
+          "name": "Quilt Standard Libraries",
+          "identifier": {
+            "ModrinthProject": "qvIfYCYJ"
+          }
+        },
+        {
+          "name": "Reese's Sodium Options",
+          "identifier": {
+            "ModrinthProject": "Bh37bMuy"
+          }
+        },
+        {
+          "name": "Repurposed Structures - Fabric",
+          "identifier": {
+            "ModrinthProject": "muf0XoRe"
+          }
+        },
+        {
+          "name": "SnowyLeavesPlus",
+          "identifier": {
+            "ModrinthProject": "of7wIinq"
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Sound Physics Remastered",
+          "identifier": {
+            "CurseForgeProject": 535489
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "ModrinthProject": "H8CaAYZC"
+          }
+        },
+        {
+          "name": "Terralith",
+          "identifier": {
+            "CurseForgeProject": 513688
+          }
+        },
+        {
+          "name": "WTHIT",
+          "identifier": {
+            "ModrinthProject": "6AQIaxuO"
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "CurseForgeProject": 263420
+          }
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "CurseForgeProject": 317780
+          }
+        },
+        {
+          "name": "YUNG's API (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 421649
+          }
+        },
+        {
+          "name": "YUNG's Better Dungeons (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 525586
+          }
+        },
+        {
+          "name": "YUNG's Better Mineshafts (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 373591
+          }
+        },
+        {
+          "name": "YUNG's Better Strongholds (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 480684
+          }
+        },
+        {
+          "name": "YUNG's Bridges (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 590988
+          }
+        },
+        {
+          "name": "YUNG's Extras (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 590993
+          }
+        }
+      ]
+    }
+  ],
+  "modpacks": []
+}
