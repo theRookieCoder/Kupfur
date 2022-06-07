@@ -285,6 +285,12 @@
           }
         },
         {
+          "name": "YUNG's Better Desert Temples (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 631020
+          }
+        },
+        {
           "name": "YUNG's Better Dungeons (Fabric)",
           "identifier": {
             "CurseForgeProject": 525586
@@ -300,6 +306,12 @@
           "name": "YUNG's Better Strongholds (Fabric)",
           "identifier": {
             "CurseForgeProject": 480684
+          }
+        },
+        {
+          "name": "YUNG's Better Witch Huts (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 631403
           }
         },
         {
