@@ -249,6 +249,12 @@
           }
         },
         {
+          "name": "Sodium Extra",
+          "identifier": {
+            "ModrinthProject": "PtjYWJkn"
+          }
+        },
+        {
           "name": "Sound Physics Remastered",
           "identifier": {
             "CurseForgeProject": 535489
