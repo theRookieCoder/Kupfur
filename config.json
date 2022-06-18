@@ -69,6 +69,12 @@
           }
         },
         {
+          "name": "Cloth API (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 317121
+          }
+        },
+        {
           "name": "Cloth Config API",
           "identifier": {
             "ModrinthProject": "9s6osm5g"
