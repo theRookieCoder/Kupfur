@@ -51,6 +51,12 @@
           }
         },
         {
+          "name": "Better Loading Screen",
+          "identifier": {
+            "CurseForgeProject": 594044
+          }
+        },
+        {
           "name": "BetterF3",
           "identifier": {
             "ModrinthProject": "8shC1gFX"
@@ -93,12 +99,6 @@
           }
         },
         {
-          "name": "Distant Horizons",
-          "identifier": {
-            "ModrinthProject": "uCdwusMi"
-          }
-        },
-        {
           "name": "Enhanced Attack Indicator",
           "identifier": {
             "ModrinthProject": "eTy17BBS"
@@ -114,6 +114,18 @@
           "name": "ExtraSounds",
           "identifier": {
             "ModrinthProject": "uPWCQrVL"
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "ModrinthProject": "P7dR8mSH"
+          }
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "identifier": {
+            "ModrinthProject": "Ha28R6CL"
           }
         },
         {
@@ -207,24 +219,6 @@
           }
         },
         {
-          "name": "Ok Zoomer",
-          "identifier": {
-            "ModrinthProject": "aXf2OSFU"
-          }
-        },
-        {
-          "name": "Quilt Loading Screen",
-          "identifier": {
-            "ModrinthProject": "VPU6VYVP"
-          }
-        },
-        {
-          "name": "Quilt Standard Libraries",
-          "identifier": {
-            "ModrinthProject": "qvIfYCYJ"
-          }
-        },
-        {
           "name": "Reese's Sodium Options",
           "identifier": {
             "ModrinthProject": "Bh37bMuy"
@@ -258,12 +252,6 @@
           "name": "Sound Physics Remastered",
           "identifier": {
             "CurseForgeProject": 535489
-          }
-        },
-        {
-          "name": "StairAutoJump",
-          "identifier": {
-            "ModrinthProject": "shbn27fi"
           }
         },
         {
@@ -342,6 +330,12 @@
           "name": "YUNG's Extras (Fabric)",
           "identifier": {
             "CurseForgeProject": 590993
+          }
+        },
+        {
+          "name": "Zoomify",
+          "identifier": {
+            "ModrinthProject": "w7ThoJFB"
           }
         }
       ]
