@@ -75,6 +75,12 @@
           }
         },
         {
+          "name": "Clear Skies",
+          "identifier": {
+            "CurseForgeProject": 332523
+          }
+        },
+        {
           "name": "Cloth API (Fabric)",
           "identifier": {
             "CurseForgeProject": 317121
@@ -207,6 +213,12 @@
           }
         },
         {
+          "name": "Logical Zoom",
+          "identifier": {
+            "ModrinthProject": "8bOImuGU"
+          }
+        },
+        {
           "name": "Mod Menu",
           "identifier": {
             "ModrinthProject": "mOgUt4GM"
@@ -330,12 +342,6 @@
           "name": "YUNG's Extras (Fabric)",
           "identifier": {
             "CurseForgeProject": 590993
-          }
-        },
-        {
-          "name": "Zoomify",
-          "identifier": {
-            "ModrinthProject": "w7ThoJFB"
           }
         }
       ]

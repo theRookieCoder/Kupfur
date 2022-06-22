@@ -1,5 +1,4 @@
 version:2975
-quilt_available_resource_packs:["immersive_weathering/better_brick_blocks","immersive_weathering/better_brick_items","immersive_weathering/biome_tinted_mossy_blocks","immersive_weathering/visual_waxed_iron_items","programer_art","vanilla"]
 autoJump:true
 autoSuggestions:true
 chatColors:true
@@ -25,10 +24,10 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5
-renderDistance:12
+renderDistance:20
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:3
+guiScale:2
 particles:0
 maxFps:120
 difficulty:2
@@ -58,7 +57,7 @@ chatDelay:0.0
 chatHeightUnfocused:0.44366195797920227
 chatScale:1.0
 chatWidth:1.0
-mipmapLevels:4
+mipmapLevels:2
 useNativeTransport:true
 mainHand:right
 attackIndicator:1
@@ -110,12 +109,6 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_keybind.invmove.toggleMove:key.keyboard.unknown
-key_gui.xaero_open_map:key.keyboard.m
-key_gui.xaero_open_settings:key.keyboard.right.bracket
-key_gui.xaero_map_zoom_in:key.keyboard.unknown
-key_gui.xaero_map_zoom_out:key.keyboard.unknown
-key_gui.xaero_quick_confirm:key.keyboard.right.shift
-key_gui.xaero_wm_toggle_minimap_radar:key.keyboard.unknown
 key_key.waila.config:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
@@ -139,10 +132,14 @@ key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.left.bracket
-key_key.ok_zoomer.zoom:key.keyboard.c
-key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
-key_key.ok_zoomer.increase_zoom:key.keyboard.unknown
-key_key.ok_zoomer.reset_zoom:key.keyboard.unknown
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.right.bracket
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_gui.xaero_wm_toggle_minimap_radar:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.gui:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
@@ -158,6 +155,7 @@ soundCategory_ambient:1.0
 soundCategory_voice:1.0
 soundCategory_extrasounds_master:1.0
 soundCategory_inventory:1.0
+soundCategory_action:1.0
 soundCategory_chat:1.0
 soundCategory_chat_mention:1.0
 soundCategory_effects:1.0
