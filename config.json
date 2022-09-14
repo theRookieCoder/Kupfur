@@ -5,7 +5,7 @@
     {
       "name": "Kupfur",
       "output_dir": "./overrides/mods",
-      "game_version": "1.18.2",
+      "game_version": "1.19",
       "mod_loader": "Quilt",
       "mods": [
         {
@@ -48,12 +48,6 @@
           "name": "bad packets",
           "identifier": {
             "ModrinthProject": "ftdbN0KK"
-          }
-        },
-        {
-          "name": "Better Loading Screen",
-          "identifier": {
-            "CurseForgeProject": 594044
           }
         },
         {
@@ -120,12 +114,6 @@
           "name": "ExtraSounds",
           "identifier": {
             "ModrinthProject": "uPWCQrVL"
-          }
-        },
-        {
-          "name": "Fabric API",
-          "identifier": {
-            "ModrinthProject": "P7dR8mSH"
           }
         },
         {
@@ -213,12 +201,6 @@
           }
         },
         {
-          "name": "Logical Zoom",
-          "identifier": {
-            "ModrinthProject": "8bOImuGU"
-          }
-        },
-        {
           "name": "Mod Menu",
           "identifier": {
             "ModrinthProject": "mOgUt4GM"
@@ -228,6 +210,18 @@
           "name": "Not Enough Crashes",
           "identifier": {
             "ModrinthProject": "yM94ont6"
+          }
+        },
+        {
+          "name": "Ok Zoomer",
+          "identifier": {
+            "ModrinthProject": "aXf2OSFU"
+          }
+        },
+        {
+          "name": "Quilted Fabric API / Quilt Standard Libraries",
+          "identifier": {
+            "ModrinthProject": "qvIfYCYJ"
           }
         },
         {
