@@ -5,13 +5,13 @@
     {
       "name": "Kupfur",
       "output_dir": "./overrides/mods",
-      "game_version": "1.19",
+      "game_version": "1.19.2",
       "mod_loader": "Quilt",
       "mods": [
         {
           "name": "'Slight' Gui Modifications",
           "identifier": {
-            "CurseForgeProject": 380393
+            "ModrinthProject": "O7JVMrQX"
           }
         },
         {
@@ -39,6 +39,12 @@
           }
         },
         {
+          "name": "Auditory",
+          "identifier": {
+            "ModrinthProject": "1LjfkWOR"
+          }
+        },
+        {
           "name": "Auth Me",
           "identifier": {
             "ModrinthProject": "yjgIrBjZ"
@@ -48,6 +54,12 @@
           "name": "bad packets",
           "identifier": {
             "ModrinthProject": "ftdbN0KK"
+          }
+        },
+        {
+          "name": "Better Third Person",
+          "identifier": {
+            "CurseForgeProject": 435044
           }
         },
         {
@@ -65,20 +77,27 @@
         {
           "name": "Bobby",
           "identifier": {
-            "ModrinthProject": "M08ruV16"
+            "CurseForgeProject": 409301
+          }
+        },
+        {
+          "name": "CameraOverhaul",
+          "identifier": {
+            "ModrinthProject": "m0oRwcZx"
           }
         },
         {
           "name": "Clear Skies",
           "identifier": {
-            "CurseForgeProject": 332523
+            "ModrinthProject": "xNK6XfRv"
           }
         },
         {
           "name": "Cloth API (Fabric)",
           "identifier": {
             "CurseForgeProject": 317121
-          }
+          },
+          "check_game_version": false
         },
         {
           "name": "Cloth Config API",
@@ -93,15 +112,33 @@
           }
         },
         {
+          "name": "Continuity",
+          "identifier": {
+            "ModrinthProject": "1IjD5062"
+          }
+        },
+        {
           "name": "DashLoader",
           "identifier": {
             "ModrinthProject": "ZfQ3kTvR"
           }
         },
         {
+          "name": "Diagonal Fences",
+          "identifier": {
+            "ModrinthProject": "IKARgflD"
+          }
+        },
+        {
+          "name": "Dynamic Surroundings: Remastered Fabric Edition",
+          "identifier": {
+            "ModrinthProject": "4TSI7dRt"
+          }
+        },
+        {
           "name": "Enhanced Attack Indicator",
           "identifier": {
-            "ModrinthProject": "eTy17BBS"
+            "CurseForgeProject": 446173
           }
         },
         {
@@ -123,15 +160,15 @@
           }
         },
         {
-          "name": "Feature NBT Deadlock Be Gone",
-          "identifier": {
-            "CurseForgeProject": 560323
-          }
-        },
-        {
           "name": "FerriteCore",
           "identifier": {
             "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "Forge Config API Port",
+          "identifier": {
+            "ModrinthProject": "ohNO6lps"
           }
         },
         {
@@ -141,9 +178,9 @@
           }
         },
         {
-          "name": "Immersive Weathering",
+          "name": "Immersive Weathering [FABRIC]",
           "identifier": {
-            "ModrinthProject": "jkskOO9i"
+            "CurseForgeProject": 571035
           }
         },
         {
@@ -207,15 +244,45 @@
           }
         },
         {
+          "name": "Moonlight Lib",
+          "identifier": {
+            "CurseForgeProject": 499980
+          }
+        },
+        {
+          "name": "No Chat Reports",
+          "identifier": {
+            "ModrinthProject": "qQyHxfxd"
+          }
+        },
+        {
           "name": "Not Enough Crashes",
           "identifier": {
             "ModrinthProject": "yM94ont6"
           }
         },
         {
+          "name": "Nullscape",
+          "identifier": {
+            "CurseForgeProject": 570354
+          }
+        },
+        {
           "name": "Ok Zoomer",
           "identifier": {
             "ModrinthProject": "aXf2OSFU"
+          }
+        },
+        {
+          "name": "Presence Footsteps",
+          "identifier": {
+            "ModrinthProject": "rcTfTZr3"
+          }
+        },
+        {
+          "name": "Puzzles Lib",
+          "identifier": {
+            "ModrinthProject": "QAGBst4M"
           }
         },
         {
@@ -231,15 +298,15 @@
           }
         },
         {
-          "name": "Repurposed Structures - Fabric",
+          "name": "ReplayMod",
           "identifier": {
-            "ModrinthProject": "muf0XoRe"
+            "ModrinthProject": "Nv2fQJo5"
           }
         },
         {
-          "name": "SnowyLeavesPlus",
+          "name": "Repurposed Structures - Fabric",
           "identifier": {
-            "ModrinthProject": "of7wIinq"
+            "ModrinthProject": "muf0XoRe"
           }
         },
         {
@@ -257,7 +324,7 @@
         {
           "name": "Sound Physics Remastered",
           "identifier": {
-            "CurseForgeProject": 535489
+            "ModrinthProject": "qyVF9oeo"
           }
         },
         {
@@ -270,6 +337,12 @@
           "name": "Terralith",
           "identifier": {
             "CurseForgeProject": 513688
+          }
+        },
+        {
+          "name": "Visual Workbench",
+          "identifier": {
+            "ModrinthProject": "kfqD1JRw"
           }
         },
         {
@@ -312,6 +385,12 @@
           "name": "YUNG's Better Mineshafts (Fabric)",
           "identifier": {
             "CurseForgeProject": 373591
+          }
+        },
+        {
+          "name": "YUNG's Better Ocean Monuments (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 689252
           }
         },
         {

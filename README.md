@@ -1,20 +1,20 @@
 # Kupfur
 
-Kupfur is a lightweight Vanilla Plus modpack with a focus around world generation and small QOL additions.
+Kupfur is a Vanilla Plus modpack with a focus around world generation, small QOL additions, and not adding radical game mechanics.
 
-Psst… try out my CLI mod and modpack manager [Ferium](https://github.com/gorilla-devs/ferium) if you're familiar with terminals
+Psst… try out my CLI mod and modpack manager [ferium](https://github.com/gorilla-devs/ferium) if you're familiar with terminals.
 
 ## Mod List
 
-**['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)**  
+**['Slight' Gui Modifications](https://modrinth.com/mod/O7JVMrQX)**  
 _Allows 'slight' gui modifications_
 
-|             |                                                                                                                                                                                                                |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Source      | CurseForge `380393`                                                                                                                                                                                            |
-| Open Source | [Yes](https://github.com/shedaniel/slight-gui-modifications)                                                                                                                                                   |
-| Authors     | [shedaniel](https://www.curseforge.com/members/32851078-shedaniel?username=shedaniel), [LinkieIsBetterThanK9](https://www.curseforge.com/members/101070148-linkieisbetterthank9?username=linkieisbetterthank9) |
-| Categories  | Map and Information, Cosmetic                                                                                                                                                                                  |
+|             |                                                              |
+| ----------- | ------------------------------------------------------------ |
+| Source      | Modrinth `O7JVMrQX`                                          |
+| Open Source | [Yes](https://github.com/shedaniel/slight-gui-modifications) |
+| Author      | [shedaniel](https://modrinth.com/user/1Hsaf75m)              |
+| Categories  | decoration, utility                                          |
 
 **[3D Skin Layers](https://modrinth.com/mod/zV5r3pPn)**  
 _Render the player skin layer in 3d!_
@@ -49,12 +49,22 @@ _Food/hunger-related HUD improvements_
 **[Architectury API](https://modrinth.com/mod/lhGA9TYQ)**  
 _An intermediary api aimed to ease developing multiplatform mods._
 
-|             |                                                                                                                                                     |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Source      | Modrinth `lhGA9TYQ`                                                                                                                                 |
-| Open Source | [Yes](https://github.com/architectury/architectury)                                                                                                 |
-| Author      | [shedaniel](https://modrinth.com/user/1Hsaf75m), [MaxNeedsSnacks](https://modrinth.com/user/OQodw31Z), [Juuxel](https://modrinth.com/user/5vnjU0nQ) |
-| Categories  | library                                                                                                                                             |
+|             |                                                                                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Source      | Modrinth `lhGA9TYQ`                                                                                                                               |
+| Open Source | [Yes](https://github.com/architectury/architectury)                                                                                               |
+| Author      | [MaxNeedsSnacks](https://modrinth.com/user/OQodw31Z), [Juuz](https://modrinth.com/user/5vnjU0nQ), [shedaniel](https://modrinth.com/user/1Hsaf75m) |
+| Categories  | library                                                                                                                                           |
+
+**[Auditory](https://modrinth.com/mod/1LjfkWOR)**  
+_A mod that expands and improves upon the sound and audio aspects of Minecraft!_
+
+|             |                                                 |
+| ----------- | ----------------------------------------------- |
+| Source      | Modrinth `1LjfkWOR`                             |
+| Open Source | [Yes](https://github.com/Sydokiddo/auditory)    |
+| Author      | [Sydokiddo](https://modrinth.com/user/RF9JZu1Q) |
+| Categories  | utility                                         |
 
 **[Auth Me](https://modrinth.com/mod/yjgIrBjZ)**  
 _Authenticate yourself and re-validate your session_
@@ -64,7 +74,7 @@ _Authenticate yourself and re-validate your session_
 | Source      | Modrinth `yjgIrBjZ`                          |
 | Open Source | [Yes](https://github.com/axieum/authme)      |
 | Author      | [axieum](https://modrinth.com/user/BfCo6KcZ) |
-| Categories  | misc, utility                                |
+| Categories  | utility                                      |
 
 **[bad packets](https://modrinth.com/mod/ftdbN0KK)**  
 _Bad Packets allows packet messaging between different modding platforms._
@@ -76,6 +86,16 @@ _Bad Packets allows packet messaging between different modding platforms._
 | Author      | [deirn](https://modrinth.com/user/6MnkHI68)        |
 | Categories  | cursed, library                                    |
 
+**[Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)**  
+_Improves third-person camera view._
+
+|             |                                                                                                                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Source      | CurseForge `435044`                                                                                                                                                                   |
+| Open Source | No                                                                                                                                                                                    |
+| Authors     | [Socolio](https://www.curseforge.com/members/32582887-socolio?username=socolio), [DreenDexTwitch](https://www.curseforge.com/members/22475527-dreendextwitch?username=dreendextwitch) |
+| Categories  | Cosmetic, Adventure and RPG                                                                                                                                                           |
+
 **[BetterF3](https://modrinth.com/mod/8shC1gFX)**  
 _BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD._
 
@@ -83,8 +103,8 @@ _BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly cu
 | ----------- | ----------------------------------------------------------------------------------------------- |
 | Source      | Modrinth `8shC1gFX`                                                                             |
 | Open Source | [Yes](https://github.com/cominixo/BetterF3)                                                     |
-| Author      | [treyruffy](https://modrinth.com/user/8ffpigk3), [cominixo](https://modrinth.com/user/4myOoEuu) |
-| Categories  | misc, utility                                                                                   |
+| Author      | [cominixo](https://modrinth.com/user/4myOoEuu), [treyruffy](https://modrinth.com/user/8ffpigk3) |
+| Categories  | utility                                                                                         |
 
 **[Blur (Fabric)](https://modrinth.com/mod/NK39zBp2)**  
 _Adds a blur effect to all GUI backgrounds - now for Fabric!_
@@ -94,17 +114,37 @@ _Adds a blur effect to all GUI backgrounds - now for Fabric!_
 | Source      | Modrinth `NK39zBp2`                            |
 | Open Source | [Yes](https://github.com/Motschen/Blur)        |
 | Author      | [Motschen](https://modrinth.com/user/6YsSV9eP) |
-| Categories  | decoration, misc                               |
+| Categories  | decoration                                     |
 
-**[Bobby](https://modrinth.com/mod/M08ruV16)**  
-_Allows for render distances greater than the server's view-distance_
+**[Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby)**  
+_Allows for render distances greater than the server's view-distance setting._
 
-|             |                                                 |
-| ----------- | ----------------------------------------------- |
-| Source      | Modrinth `M08ruV16`                             |
-| Open Source | [Yes](https://github.com/Johni0702/bobby)       |
-| Author      | [Johni0702](https://modrinth.com/user/ZExHEtu6) |
-| Categories  | misc                                            |
+|             |                                                                                        |
+| ----------- | -------------------------------------------------------------------------------------- |
+| Source      | CurseForge `409301`                                                                    |
+| Open Source | [Yes](https://github.com/Johni0702/bobby)                                              |
+| Authors     | [Johni0702](https://www.curseforge.com/members/100050958-johni0702?username=johni0702) |
+| Categories  | Cosmetic                                                                               |
+
+**[CameraOverhaul](https://modrinth.com/mod/m0oRwcZx)**  
+_A mod that makes gameplay & movement more satisfying through the use of various camera tilting._
+
+|             |                                                             |
+| ----------- | ----------------------------------------------------------- |
+| Source      | Modrinth `m0oRwcZx`                                         |
+| Open Source | [Yes](https://github.com/Mirsario/Minecraft-CameraOverhaul) |
+| Author      | [Mirsario](https://modrinth.com/user/BrE0i5ig)              |
+| Categories  | decoration, utility                                         |
+
+**[Clear Skies](https://modrinth.com/mod/xNK6XfRv)**  
+_Tiny mod that removes the banding at the horizon of Vanilla Minecraft._
+
+|             |                                               |
+| ----------- | --------------------------------------------- |
+| Source      | Modrinth `xNK6XfRv`                           |
+| Open Source | [Yes](https://github.com/grondag/clear-skies) |
+| Author      | [grondag](https://modrinth.com/user/ZBrRFLVK) |
+| Categories  | decoration, utility                           |
 
 **[Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)**  
 _Generalized API for Fabric 1.14_
@@ -134,37 +174,57 @@ _A Fabric mod designed to improve the chunk performance of Minecraft._
 | Source      | Modrinth `VSNURh3q`                                |
 | Open Source | [Yes](https://github.com/RelativityMC/C2ME-fabric) |
 | Author      | [ishland](https://modrinth.com/user/KdStZyTU)      |
-| Categories  | misc, optimization                                 |
+| Categories  | optimization                                       |
+
+**[Continuity](https://modrinth.com/mod/1IjD5062)**  
+_A Fabric mod that allows for efficient connected textures_
+
+|             |                                                   |
+| ----------- | ------------------------------------------------- |
+| Source      | Modrinth `1IjD5062`                               |
+| Open Source | [Yes](https://github.com/PepperCode1/Continuity)  |
+| Author      | [peppercode1](https://modrinth.com/user/CdcF3lqY) |
+| Categories  | decoration, utility                               |
 
 **[DashLoader](https://modrinth.com/mod/ZfQ3kTvR)**  
 _Launch at the speed of light._
 
-|             |                                               |
-| ----------- | --------------------------------------------- |
-| Source      | Modrinth `ZfQ3kTvR`                           |
-| Open Source | [Yes](https://github.com/alphaqu/DashLoader)  |
-| Author      | [alphaqu](https://modrinth.com/user/Y5jbSs5O) |
-| Categories  | library, optimization, utility                |
+|             |                                                        |
+| ----------- | ------------------------------------------------------ |
+| Source      | Modrinth `ZfQ3kTvR`                                    |
+| Open Source | [Yes](https://github.com/TeamQuantumFusion/DashLoader) |
+| Author      | [alphaqu](https://modrinth.com/user/Y5jbSs5O)          |
+| Categories  | library, optimization, utility                         |
 
-**[Distant Horizons](https://modrinth.com/mod/uCdwusMi)**  
-_See farther without turning your game into a slide show_
+**[Diagonal Fences](https://modrinth.com/mod/IKARgflD)**  
+_Fences connecting diagonally? Wait. That's illegal._
 
-|             |                                                                                                                                                                                                                                                                                            |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Source      | Modrinth `uCdwusMi`                                                                                                                                                                                                                                                                        |
-| Open Source | [Yes](https://gitlab.com/jeseibel/minecraft-lod-mod)                                                                                                                                                                                                                                       |
-| Author      | [jeseibel](https://modrinth.com/user/ksmgF6Gt), [cola98765](https://modrinth.com/user/5X6ZGAc6), [TomTheFurry](https://modrinth.com/user/3OUZnTJl), [Ran](https://modrinth.com/user/8JHQCjcE), [coolGi](https://modrinth.com/user/ce6koaec), [Morippi](https://modrinth.com/user/79qC4h7K) |
-| Categories  | optimization, utility                                                                                                                                                                                                                                                                      |
+|             |                                                |
+| ----------- | ---------------------------------------------- |
+| Source      | Modrinth `IKARgflD`                            |
+| Open Source | [Yes](https://github.com/Fuzss/diagonalfences) |
+| Author      | [Fuzs](https://modrinth.com/user/rHdGpxOA)     |
+| Categories  | decoration, utility                            |
 
-**[Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS)**  
+**[Dynamic Surroundings: Remastered Fabric Edition](https://modrinth.com/mod/4TSI7dRt)**  
+_Remastered Fabric Version of Dynamic Surroundings mod for Minecraft_
+
+|             |                                                                  |
+| ----------- | ---------------------------------------------------------------- |
+| Source      | Modrinth `4TSI7dRt`                                              |
+| Open Source | [Yes](https://github.com/maksim789456/DynamicSurroundingsFabric) |
+| Author      | [maksim789456](https://modrinth.com/user/iBwvnMOQ)               |
+| Categories  | adventure, decoration                                            |
+
+**[Enhanced Attack Indicator](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator)**  
 _Uses the attack indicator for more than just melee attacks_
 
-|             |                                                              |
-| ----------- | ------------------------------------------------------------ |
-| Source      | Modrinth `eTy17BBS`                                          |
-| Open Source | [Yes](https://github.com/Minenash/Enhanced-Attack-Indicator) |
-| Author      | [Minenash](https://modrinth.com/user/XqxDWNf7)               |
-| Categories  | decoration, utility                                          |
+|             |                                                                                     |
+| ----------- | ----------------------------------------------------------------------------------- |
+| Source      | CurseForge `446173`                                                                 |
+| Open Source | [Yes](https://github.com/Minenash/Enhanced-Attack-Indicator)                        |
+| Authors     | [Minenash](https://www.curseforge.com/members/101137976-minenash?username=minenash) |
+| Categories  | Cosmetic                                                                            |
 
 **[Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)**  
 _Reduce FPS lag with block entities, as well as customize them with resource packs_
@@ -174,7 +234,7 @@ _Reduce FPS lag with block entities, as well as customize them with resource pac
 | Source      | Modrinth `OVuFYfre`                                             |
 | Open Source | [Yes](https://github.com/FoundationGames/EnhancedBlockEntities) |
 | Author      | [FoundationGames](https://modrinth.com/user/WH9NfS5R)           |
-| Categories  | misc, optimization, utility                                     |
+| Categories  | optimization, utility                                           |
 
 **[ExtraSounds](https://modrinth.com/mod/uPWCQrVL)**  
 _UI sounds & more._
@@ -184,17 +244,17 @@ _UI sounds & more._
 | Source      | Modrinth `uPWCQrVL`                               |
 | Open Source | [Yes](https://github.com/stashymane/extra-sounds) |
 | Author      | [stashymane](https://modrinth.com/user/drTDsAEa)  |
-| Categories  | misc                                              |
+| Categories  |                                                   |
 
-**[Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone)**  
-_Fixes deadlocks caused by https://bugs.mojang.com/browse/MC-246262_
+**[Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL)**  
+_Fabric Language Kotlin_
 
-|             |                                                                                                         |
-| ----------- | ------------------------------------------------------------------------------------------------------- |
-| Source      | CurseForge `560323`                                                                                     |
-| Open Source | [Yes](https://github.com/TelepathicGrunt/FeatureNBTDeadlockBeGone)                                      |
-| Authors     | [telepathicgrunt](https://www.curseforge.com/members/51333044-telepathicgrunt?username=telepathicgrunt) |
-| Categories  | Server Utility                                                                                          |
+|             |                                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------ |
+| Source      | Modrinth `Ha28R6CL`                                                                              |
+| Open Source | [Yes](https://github.com/FabricMC/fabric-language-kotlin/)                                       |
+| Author      | [sfPlayer1](https://modrinth.com/user/iFMgB5Ib), [modmuss50](https://modrinth.com/user/JZA4dW8o) |
+| Categories  | library                                                                                          |
 
 **[FerriteCore](https://modrinth.com/mod/uXXizFIs)**  
 _Memory usage optimizations_
@@ -206,6 +266,16 @@ _Memory usage optimizations_
 | Author      | [malte0811](https://modrinth.com/user/cXzLZ8YY) |
 | Categories  | optimization, utility                           |
 
+**[Forge Config API Port](https://modrinth.com/mod/ohNO6lps)**  
+_Yes, you're reading that correctly. This is the whole Forge Config API ported to Fabric._
+
+|             |                                                           |
+| ----------- | --------------------------------------------------------- |
+| Source      | Modrinth `ohNO6lps`                                       |
+| Open Source | [Yes](https://github.com/Fuzss/forgeconfigapiport-fabric) |
+| Author      | [Fuzs](https://modrinth.com/user/rHdGpxOA)                |
+| Categories  | library                                                   |
+
 **[Immersive Portals](https://modrinth.com/mod/zJpHMkdD)**  
 _See through portals and teleport seamlessly_
 
@@ -214,27 +284,27 @@ _See through portals and teleport seamlessly_
 | Source      | Modrinth `zJpHMkdD`                                    |
 | Open Source | [Yes](https://github.com/qouteall/ImmersivePortalsMod) |
 | Author      | [qouteall](https://modrinth.com/user/EMYx6kL8)         |
-| Categories  | library, misc, utility                                 |
+| Categories  | library, utility                                       |
 
-**[Immersive Weathering](https://modrinth.com/mod/jkskOO9i)**  
+**[Immersive Weathering [FABRIC]](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric)**  
 _An abundance of new natural systems to make your world feel more alive than ever._
 
-|             |                                                                    |
-| ----------- | ------------------------------------------------------------------ |
-| Source      | Modrinth `jkskOO9i`                                                |
-| Open Source | [Yes](https://github.com/AstralOrdana/Immersive-Weathering-Fabric) |
-| Author      | [astralordana](https://modrinth.com/user/2I4aQEAE)                 |
-| Categories  | decoration, utility, worldgen                                      |
+|             |                                                                                                                                                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Source      | CurseForge `571035`                                                                                                                                                                                 |
+| Open Source | [Yes](https://github.com/AstralOrdana/Immersive-Weathering)                                                                                                                                         |
+| Authors     | [OrdanaryMods](https://www.curseforge.com/members/100817143-ordanarymods?username=ordanarymods), [MehVahdJukaar](https://www.curseforge.com/members/101295357-mehvahdjukaar?username=mehvahdjukaar) |
+| Categories  | World Gen, Biomes, Cosmetic                                                                                                                                                                         |
 
 **[Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium)**  
-_New biomes and structures with the vanilla blocks!_
+_New biomes and structures with the vanilla blocks! (1.18+)_
 
 |             |                                                                                     |
 | ----------- | ----------------------------------------------------------------------------------- |
 | Source      | CurseForge `591388`                                                                 |
 | Open Source | No                                                                                  |
 | Authors     | [Starmute](https://www.curseforge.com/members/100241219-starmute?username=starmute) |
-| Categories  | World Gen, Biomes, Dimensions                                                       |
+| Categories  | Biomes, Dimensions, World Gen                                                       |
 
 **[Indium](https://modrinth.com/mod/Orvt0mRa)**  
 _Sodium addon providing support for the Fabric Rendering API, based on Indigo_
@@ -253,7 +323,7 @@ _A Minecraft mod which adds more tooltips._
 | ----------- | -------------------------------------------------------------------------------------------- |
 | Source      | Modrinth `a93H3mKU`                                                                          |
 | Open Source | [Yes](https://github.com/Queerbric/Inspecio)                                                 |
-| Author      | [LambdAurora](https://modrinth.com/user/rRnTb0fG), [Emi](https://modrinth.com/user/R6WsWKy9) |
+| Author      | [Emi](https://modrinth.com/user/R6WsWKy9), [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | Categories  | decoration, utility                                                                          |
 
 **[InvMove](https://modrinth.com/mod/REfW2AEX)**  
@@ -264,7 +334,7 @@ _Forge/Fabric mod that adds the ability to walk around while in inventories_
 | Source      | Modrinth `REfW2AEX`                               |
 | Open Source | [Yes](https://github.com/PieKing1215/InvMove)     |
 | Author      | [PieKing1215](https://modrinth.com/user/U9xrZlQH) |
-| Categories  | misc, utility                                     |
+| Categories  | utility                                           |
 
 **[Iris Shaders](https://modrinth.com/mod/YL57xq9U)**  
 _A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs_
@@ -273,7 +343,7 @@ _A modern shaders mod for Minecraft intended to be compatible with existing Opti
 | ----------- | -------------------------------------------------------------------------------------------- |
 | Source      | Modrinth `YL57xq9U`                                                                          |
 | Open Source | [Yes](https://github.com/IrisShaders/Iris)                                                   |
-| Author      | [coderbot](https://modrinth.com/user/v7k4QluE), [IMS212](https://modrinth.com/user/DzLrfrbK) |
+| Author      | [IMS212](https://modrinth.com/user/DzLrfrbK), [coderbot](https://modrinth.com/user/v7k4QluE) |
 | Categories  | decoration, optimization                                                                     |
 
 **[Krypton](https://modrinth.com/mod/fQEb0iXm)**  
@@ -284,7 +354,7 @@ _A mod to optimize the Minecraft networking stack_
 | Source      | Modrinth `fQEb0iXm`                         |
 | Open Source | [Yes](https://github.com/astei/krypton)     |
 | Author      | [astei](https://modrinth.com/user/y0WF9UR5) |
-| Categories  | misc, optimization, utility                 |
+| Categories  | optimization, utility                       |
 
 **[LambDynamicLights](https://modrinth.com/mod/yBW8D80W)**  
 _A dynamic lights mod for Fabric._
@@ -313,7 +383,7 @@ _No-compromises game logic/server optimization mod_
 | ----------- | ------------------------------------------------------------------------------------------------- |
 | Source      | Modrinth `gvQqBUqZ`                                                                               |
 | Open Source | [Yes](https://github.com/jellysquid3/lithium-fabric)                                              |
-| Author      | [jellysquid3](https://modrinth.com/user/TEZXhE2U), [2No2Name](https://modrinth.com/user/uhPSqlnd) |
+| Author      | [2No2Name](https://modrinth.com/user/uhPSqlnd), [jellysquid3](https://modrinth.com/user/TEZXhE2U) |
 | Categories  | optimization                                                                                      |
 
 **[Mod Menu](https://modrinth.com/mod/mOgUt4GM)**  
@@ -323,8 +393,28 @@ _Adds a mod menu to view the list of mods you have installed._
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Source      | Modrinth `mOgUt4GM`                                                                                                                                                                                |
 | Open Source | [Yes](https://github.com/TerraformersMC/ModMenu)                                                                                                                                                   |
-| Author      | [Prospector](https://modrinth.com/user/Dc7EYhxG), [modmuss50](https://modrinth.com/user/JZA4dW8o), [NeusFear](https://modrinth.com/user/vhfL4ZxK), [jackassmc](https://modrinth.com/user/MY4PmeMo) |
-| Categories  | misc, utility                                                                                                                                                                                      |
+| Author      | [modmuss50](https://modrinth.com/user/JZA4dW8o), [NeusFear](https://modrinth.com/user/vhfL4ZxK), [jackassmc](https://modrinth.com/user/MY4PmeMo), [Prospector](https://modrinth.com/user/Dc7EYhxG) |
+| Categories  | utility                                                                                                                                                                                            |
+
+**[Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)**  
+_Custom Villagers AI and Map Markers, First and third person item animations, dynamic assets and registration & more_
+
+|             |                                                                                                    |
+| ----------- | -------------------------------------------------------------------------------------------------- |
+| Source      | CurseForge `499980`                                                                                |
+| Open Source | [Yes](https://github.com/MehVahdJukaar/Selene)                                                     |
+| Authors     | [MehVahdJukaar](https://www.curseforge.com/members/101295357-mehvahdjukaar?username=mehvahdjukaar) |
+| Categories  | API and Library                                                                                    |
+
+**[No Chat Reports](https://modrinth.com/mod/qQyHxfxd)**  
+_Makes chat unreportable (where possible)_
+
+|             |                                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------ |
+| Source      | Modrinth `qQyHxfxd`                                                                              |
+| Open Source | [Yes](https://github.com/Aizistral-Studios/No-Chat-Reports)                                      |
+| Author      | [robotkoer](https://modrinth.com/user/2avTeeAE), [Aizistral](https://modrinth.com/user/2n9TlxqP) |
+| Categories  | social, utility                                                                                  |
 
 **[Not Enough Crashes](https://modrinth.com/mod/yM94ont6)**  
 _When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant._
@@ -334,7 +424,17 @@ _When crashing, you can go back to the title screen and keep playing, without ne
 | Source      | Modrinth `yM94ont6`                                     |
 | Open Source | [Yes](https://github.com/natanfudge/Not-Enough-Crashes) |
 | Author      | [natanfudge](https://modrinth.com/user/gRvRzBFY)        |
-| Categories  | misc, utility                                           |
+| Categories  | utility                                                 |
+
+**[Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape)**  
+_Vanilla End expansion for Fabric and Forge. More varied terrain - same barren, unforgiving void._
+
+|             |                                                                                     |
+| ----------- | ----------------------------------------------------------------------------------- |
+| Source      | CurseForge `570354`                                                                 |
+| Open Source | No                                                                                  |
+| Authors     | [Starmute](https://www.curseforge.com/members/100241219-starmute?username=starmute) |
+| Categories  | Biomes, Dimensions, World Gen                                                       |
 
 **[Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)**  
 _Adds a highly-configurable zoom key for Fabric. The zoom is yours!_
@@ -346,24 +446,34 @@ _Adds a highly-configurable zoom key for Fabric. The zoom is yours!_
 | Author      | [Ennui](https://modrinth.com/user/K0geyKfU) |
 | Categories  | utility                                     |
 
-**[Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)**  
-_A loading screen based off of The Quilt Community's server banner._
+**[Presence Footsteps](https://modrinth.com/mod/rcTfTZr3)**  
+_..An Overly complicated Sound Mod..._
 
-|             |                                                             |
-| ----------- | ----------------------------------------------------------- |
-| Source      | Modrinth `VPU6VYVP`                                         |
-| Open Source | [Yes](https://github.com/wafflecoffee/quilt-loading-screen) |
-| Author      | [emmaffle](https://modrinth.com/user/6plzAzU4)              |
-| Categories  | decoration, misc                                            |
+|             |                                                      |
+| ----------- | ---------------------------------------------------- |
+| Source      | Modrinth `rcTfTZr3`                                  |
+| Open Source | [Yes](https://github.com/Sollace/Presence-Footsteps) |
+| Author      | [Sollace](https://modrinth.com/user/8a7Nm6u3)        |
+| Categories  | decoration                                           |
 
-**[Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qvIfYCYJ)**  
+**[Puzzles Lib](https://modrinth.com/mod/QAGBst4M)**  
+_Why's it called Puzzles you ask? That's the puzzle!_
+
+|             |                                            |
+| ----------- | ------------------------------------------ |
+| Source      | Modrinth `QAGBst4M`                        |
+| Open Source | [Yes](https://github.com/Fuzss/puzzleslib) |
+| Author      | [Fuzs](https://modrinth.com/user/rHdGpxOA) |
+| Categories  | library                                    |
+
+**[Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ)**  
 _The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt!_
 
 |             |                                                                                                                                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Source      | Modrinth `qvIfYCYJ`                                                                                                                                                                               |
 | Open Source | [Yes](https://github.com/QuiltMC/quilted-fabric-api)                                                                                                                                              |
-| Author      | [TheGlitch76](https://modrinth.com/user/T5G9ruHa), [LambdAurora](https://modrinth.com/user/rRnTb0fG), [emmaffle](https://modrinth.com/user/6plzAzU4), [Ennui](https://modrinth.com/user/K0geyKfU) |
+| Author      | [TheGlitch76](https://modrinth.com/user/T5G9ruHa), [OroArmor](https://modrinth.com/user/h74rYEcI), [Ennui](https://modrinth.com/user/K0geyKfU), [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | Categories  | library                                                                                                                                                                                           |
 
 **[Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy)**  
@@ -374,27 +484,27 @@ _Alternative Options Menu for Sodium_
 | Source      | Modrinth `Bh37bMuy`                                         |
 | Open Source | [Yes](https://github.com/FlashyReese/reeses-sodium-options) |
 | Author      | [FlashyReese](https://modrinth.com/user/QXAY01zS)           |
-| Categories  | misc, utility                                               |
+| Categories  | utility                                                     |
 
-**[Repurposed Structures - Fabric](https://modrinth.com/mod/muf0XoRe)**  
+**[ReplayMod](https://modrinth.com/mod/Nv2fQJo5)**  
+_A Minecraft Mod to record, relive and share your experience._
+
+|             |                                                 |
+| ----------- | ----------------------------------------------- |
+| Source      | Modrinth `Nv2fQJo5`                             |
+| Open Source | [Yes](https://github.com/ReplayMod/ReplayMod)   |
+| Author      | [Johni0702](https://modrinth.com/user/ZExHEtu6) |
+| Categories  | utility                                         |
+
+**[Repurposed Structures - Quilt/Fabric](https://modrinth.com/mod/muf0XoRe)**  
 _Adds more variations of vanilla structures and features such as a Jungle Fortress!_
 
-|             |                                                                       |
-| ----------- | --------------------------------------------------------------------- |
-| Source      | Modrinth `muf0XoRe`                                                   |
-| Open Source | [Yes](https://github.com/TelepathicGrunt/RepurposedStructures-Fabric) |
-| Author      | [TelepathicGrunt](https://modrinth.com/user/IjLEI1nA)                 |
-| Categories  | worldgen                                                              |
-
-**[SnowyLeavesPlus](https://modrinth.com/mod/of7wIinq)**  
-_When it is snowing, leaves will slowly turn white, and when it is not, they will turn back to normal_
-
-|             |                                                          |
-| ----------- | -------------------------------------------------------- |
-| Source      | Modrinth `of7wIinq`                                      |
-| Open Source | [Yes](https://github.com/theRookieCoder/SnowyLeavesPlus) |
-| Author      | [theRookieCoder](https://modrinth.com/user/7Azq6eD8)     |
-| Categories  | decoration                                               |
+|             |                                                                                           |
+| ----------- | ----------------------------------------------------------------------------------------- |
+| Source      | Modrinth `muf0XoRe`                                                                       |
+| Open Source | [Yes](https://github.com/TelepathicGrunt/RepurposedStructures/tree/latest-released-Quilt) |
+| Author      | [TelepathicGrunt](https://modrinth.com/user/IjLEI1nA)                                     |
+| Categories  | worldgen                                                                                  |
 
 **[Sodium](https://modrinth.com/mod/AANobbMI)**  
 _Modern rendering engine and client-side optimization mod for Minecraft_
@@ -403,7 +513,7 @@ _Modern rendering engine and client-side optimization mod for Minecraft_
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Source      | Modrinth `AANobbMI`                                                                                                                              |
 | Open Source | [Yes](https://github.com/CaffeineMC/sodium-fabric)                                                                                               |
-| Author      | [jellysquid3](https://modrinth.com/user/TEZXhE2U), [burgerguy](https://modrinth.com/user/EAlTR9uM), [IMS212](https://modrinth.com/user/DzLrfrbK) |
+| Author      | [burgerguy](https://modrinth.com/user/EAlTR9uM), [IMS212](https://modrinth.com/user/DzLrfrbK), [jellysquid3](https://modrinth.com/user/TEZXhE2U) |
 | Categories  | optimization                                                                                                                                     |
 
 **[Sodium Extra](https://modrinth.com/mod/PtjYWJkn)**  
@@ -414,17 +524,17 @@ _Features that shouldn't be in Sodium._
 | Source      | Modrinth `PtjYWJkn`                                       |
 | Open Source | [Yes](https://github.com/FlashyReese/sodium-extra-fabric) |
 | Author      | [FlashyReese](https://modrinth.com/user/QXAY01zS)         |
-| Categories  | cursed, misc, utility                                     |
+| Categories  | cursed, utility                                           |
 
-**[Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)**  
-_Sound Physics Remastered_
+**[Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)**  
+_A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks._
 
-|             |                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------- |
-| Source      | CurseForge `535489`                                                                   |
-| Open Source | [Yes](https://github.com/henkelmax/sound-physics-remastered)                          |
-| Authors     | [henkelmax](https://www.curseforge.com/members/20569971-henkelmax?username=henkelmax) |
-| Categories  | Cosmetic, Adventure and RPG                                                           |
+|             |                                                              |
+| ----------- | ------------------------------------------------------------ |
+| Source      | Modrinth `qyVF9oeo`                                          |
+| Open Source | [Yes](https://github.com/henkelmax/sound-physics-remastered) |
+| Author      | [henkelmax](https://modrinth.com/user/mqxuCPbU)              |
+| Categories  | adventure, utility                                           |
 
 **[Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC)**  
 _Rewrites the light engine to fix lighting performance and lighting errors_
@@ -434,7 +544,7 @@ _Rewrites the light engine to fix lighting performance and lighting errors_
 | Source      | Modrinth `H8CaAYZC`                               |
 | Open Source | [Yes](https://github.com/PaperMC/Starlight)       |
 | Author      | [spottedleaf](https://modrinth.com/user/fYyU5YhM) |
-| Categories  | misc, optimization                                |
+| Categories  | optimization                                      |
 
 **[Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)**  
 _A 1.18+ overworld expansion for Fabric and Forge, with tons of new biomes and caves!_
@@ -445,6 +555,16 @@ _A 1.18+ overworld expansion for Fabric and Forge, with tons of new biomes and c
 | Open Source | No                                                                                  |
 | Authors     | [Starmute](https://www.curseforge.com/members/100241219-starmute?username=starmute) |
 | Categories  | Structures, Biomes, World Gen                                                       |
+
+**[Visual Workbench](https://modrinth.com/mod/kfqD1JRw)**  
+_Items stay inside of crafting tables and are also rendered on top. It's really fancy!_
+
+|             |                                                 |
+| ----------- | ----------------------------------------------- |
+| Source      | Modrinth `kfqD1JRw`                             |
+| Open Source | [Yes](https://github.com/Fuzss/visualworkbench) |
+| Author      | [Fuzs](https://modrinth.com/user/rHdGpxOA)      |
+| Categories  | utility                                         |
 
 **[WTHIT](https://modrinth.com/mod/6AQIaxuO)**  
 _What the hell is that?_
@@ -464,7 +584,7 @@ _Displays the nearby world terrain, players, mobs, entities in the corner of you
 | Source      | CurseForge `263420`                                                             |
 | Open Source | No                                                                              |
 | Authors     | [xaero96](https://www.curseforge.com/members/12362980-xaero96?username=xaero96) |
-| Categories  | Map and Information, Player Transport                                           |
+| Categories  | Player Transport, Map and Information                                           |
 
 **[Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)**  
 _Adds a fullscreen worldmap which shows you what you have explored in the world. Can work together with Xaero's Minimap._
@@ -494,7 +614,7 @@ _A complete redesign of Minecraft's desert temples!_
 | Source      | CurseForge `631020`                                                                                                                                                                                   |
 | Open Source | [Yes](https://github.com/YUNG-GANG/YUNGs-Better-Desert-Temples)                                                                                                                                       |
 | Authors     | [YUNGNICKYOUNG](https://www.curseforge.com/members/40421595-yungnickyoung?username=yungnickyoung), [teratoutcourt](https://www.curseforge.com/members/103326469-teratoutcourt?username=teratoutcourt) |
-| Categories  | Structures, World Gen, Adventure and RPG                                                                                                                                                              |
+| Categories  | Adventure and RPG, Structures, World Gen                                                                                                                                                              |
 
 **[YUNG's Better Dungeons (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric)**  
 _A complete redesign of Minecraft's dungeons!_
@@ -504,7 +624,7 @@ _A complete redesign of Minecraft's dungeons!_
 | Source      | CurseForge `525586`                                                                                                                                                                                |
 | Open Source | [Yes](https://github.com/yungnickyoung/YUNGs-Better-Dungeons)                                                                                                                                      |
 | Authors     | [YUNGNICKYOUNG](https://www.curseforge.com/members/40421595-yungnickyoung?username=yungnickyoung), [EveCommander](https://www.curseforge.com/members/102094599-evecommander?username=evecommander) |
-| Categories  | World Gen, Structures, Adventure and RPG                                                                                                                                                           |
+| Categories  | Structures, Adventure and RPG, World Gen                                                                                                                                                           |
 
 **[YUNG's Better Mineshafts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)**  
 _A long-awaited and much-needed abandoned mineshaft overhaul!_
@@ -514,7 +634,17 @@ _A long-awaited and much-needed abandoned mineshaft overhaul!_
 | Source      | CurseForge `373591`                                                                               |
 | Open Source | [Yes](https://github.com/yungnickyoung/YUNGs-Better-Mineshafts)                                   |
 | Authors     | [YUNGNICKYOUNG](https://www.curseforge.com/members/40421595-yungnickyoung?username=yungnickyoung) |
-| Categories  | World Gen, Adventure and RPG, World Gen, Structures                                               |
+| Categories  | Adventure and RPG, Structures, World Gen                                                          |
+
+**[YUNG's Better Ocean Monuments (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric)**  
+_A complete redesign of Minecraft's ocean monuments!_
+
+|             |                                                                                                                                                                                                       |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Source      | CurseForge `689252`                                                                                                                                                                                   |
+| Open Source | [Yes](https://github.com/YUNG-GANG/YUNGs-Better-Ocean-Monuments)                                                                                                                                      |
+| Authors     | [YUNGNICKYOUNG](https://www.curseforge.com/members/40421595-yungnickyoung?username=yungnickyoung), [teratoutcourt](https://www.curseforge.com/members/103326469-teratoutcourt?username=teratoutcourt) |
+| Categories  | Structures, Adventure and RPG, World Gen                                                                                                                                                              |
 
 **[YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)**  
 _A complete redesign of Minecraft's strongholds_
@@ -524,7 +654,7 @@ _A complete redesign of Minecraft's strongholds_
 | Source      | CurseForge `480684`                                                                                                                                                                                |
 | Open Source | [Yes](https://github.com/yungnickyoung/YUNGs-Better-Strongholds)                                                                                                                                   |
 | Authors     | [YUNGNICKYOUNG](https://www.curseforge.com/members/40421595-yungnickyoung?username=yungnickyoung), [EveCommander](https://www.curseforge.com/members/102094599-evecommander?username=evecommander) |
-| Categories  | World Gen, Adventure and RPG, Structures                                                                                                                                                           |
+| Categories  | World Gen, Structures, Adventure and RPG                                                                                                                                                           |
 
 **[YUNG's Better Witch Huts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric)**  
 _Adds overhauled witch huts to swamps!_
@@ -534,7 +664,7 @@ _Adds overhauled witch huts to swamps!_
 | Source      | CurseForge `631403`                                                                                                                                                                                |
 | Open Source | [Yes](https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts)                                                                                                                                        |
 | Authors     | [YUNGNICKYOUNG](https://www.curseforge.com/members/40421595-yungnickyoung?username=yungnickyoung), [EveCommander](https://www.curseforge.com/members/102094599-evecommander?username=evecommander) |
-| Categories  | World Gen, Structures, Adventure and RPG                                                                                                                                                           |
+| Categories  | Structures, World Gen, Adventure and RPG                                                                                                                                                           |
 
 **[YUNG's Bridges (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric)**  
 _Adds beautiful naturally generated bridges throughout the world_
@@ -544,7 +674,7 @@ _Adds beautiful naturally generated bridges throughout the world_
 | Source      | CurseForge `590988`                                                                               |
 | Open Source | [Yes](https://github.com/yungnickyoung/YUNGs-Bridges)                                             |
 | Authors     | [YUNGNICKYOUNG](https://www.curseforge.com/members/40421595-yungnickyoung?username=yungnickyoung) |
-| Categories  | Adventure and RPG, World Gen, Structures, Biomes                                                  |
+| Categories  | Biomes, Structures, World Gen, Adventure and RPG                                                  |
 
 **[YUNG's Extras (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric)**  
 _Extra structures, features, and vanilla+ content suitable for any modpack_
@@ -554,4 +684,4 @@ _Extra structures, features, and vanilla+ content suitable for any modpack_
 | Source      | CurseForge `590993`                                                                               |
 | Open Source | [Yes](https://github.com/yungnickyoung/YUNGs-Extras)                                              |
 | Authors     | [YUNGNICKYOUNG](https://www.curseforge.com/members/40421595-yungnickyoung?username=yungnickyoung) |
-| Categories  | Structures, World Gen, Biomes, Adventure and RPG                                                  |
+| Categories  | World Gen, Structures, Adventure and RPG, Biomes                                                  |
