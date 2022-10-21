@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","file/Stay True 1.19.zip","file/Remove Terralith Intro Message.zip"]
+resourcePacks:["vanilla","file/Stay True 1.19.zip","file/Remove Terralith Intro Message.zip","immersive_weathering/biome_tinted_mossy_blocks","immersive_weathering/visual_waxed_iron_items","continuity/default","Immersive Weathering Generated Pack","continuity/glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

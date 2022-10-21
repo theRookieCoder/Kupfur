@@ -106,12 +106,6 @@
           }
         },
         {
-          "name": "Concurrent Chunk Management Engine (Fabric)",
-          "identifier": {
-            "ModrinthProject": "VSNURh3q"
-          }
-        },
-        {
           "name": "Continuity",
           "identifier": {
             "ModrinthProject": "1IjD5062"
