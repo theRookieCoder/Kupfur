@@ -106,9 +106,21 @@
           }
         },
         {
+          "name": "Connectible Chains [Fabric]",
+          "identifier": {
+            "ModrinthProject": "ykSfIgTw"
+          }
+        },
+        {
           "name": "Continuity",
           "identifier": {
             "ModrinthProject": "1IjD5062"
+          }
+        },
+        {
+          "name": "CreativeCore",
+          "identifier": {
+            "CurseForgeProject": 257814
           }
         },
         {
@@ -142,6 +154,18 @@
           }
         },
         {
+          "name": "EnhancedVisuals",
+          "identifier": {
+            "CurseForgeProject": 255389
+          }
+        },
+        {
+          "name": "EntityCulling",
+          "identifier": {
+            "ModrinthProject": "NNAgCjsB"
+          }
+        },
+        {
           "name": "ExtraSounds",
           "identifier": {
             "ModrinthProject": "uPWCQrVL"
@@ -172,9 +196,9 @@
           }
         },
         {
-          "name": "Immersive Weathering [FABRIC]",
+          "name": "Immersive Weathering",
           "identifier": {
-            "CurseForgeProject": 571035
+            "ModrinthProject": "jkskOO9i"
           }
         },
         {
@@ -244,6 +268,12 @@
           }
         },
         {
+          "name": "Mouse Wheelie",
+          "identifier": {
+            "ModrinthProject": "u5Ic2U1u"
+          }
+        },
+        {
           "name": "No Chat Reports",
           "identifier": {
             "ModrinthProject": "qQyHxfxd"
@@ -301,6 +331,12 @@
           "name": "Repurposed Structures - Fabric",
           "identifier": {
             "ModrinthProject": "muf0XoRe"
+          }
+        },
+        {
+          "name": "Smooth Swapping",
+          "identifier": {
+            "ModrinthProject": "ydZic5r4"
           }
         },
         {
