@@ -394,57 +394,57 @@
           }
         },
         {
-          "name": "YUNG's API (Fabric)",
+          "name": "YUNG's API",
           "identifier": {
-            "CurseForgeProject": 421649
+            "ModrinthProject": "Ua7DFN59"
           }
         },
         {
-          "name": "YUNG's Better Desert Temples (Fabric)",
+          "name": "YUNG's Better Desert Temples",
           "identifier": {
-            "CurseForgeProject": 631020
+            "ModrinthProject": "XNlO7sBv"
           }
         },
         {
-          "name": "YUNG's Better Dungeons (Fabric)",
+          "name": "YUNG's Better Dungeons",
           "identifier": {
-            "CurseForgeProject": 525586
+            "ModrinthProject": "o1C1Dkj5"
           }
         },
         {
-          "name": "YUNG's Better Mineshafts (Fabric)",
+          "name": "YUNG's Better Mineshafts",
           "identifier": {
-            "CurseForgeProject": 373591
+            "ModrinthProject": "HjmxVlSr"
           }
         },
         {
-          "name": "YUNG's Better Ocean Monuments (Fabric)",
+          "name": "YUNG's Better Ocean Monuments",
           "identifier": {
-            "CurseForgeProject": 689252
+            "ModrinthProject": "3dT9sgt4"
           }
         },
         {
-          "name": "YUNG's Better Strongholds (Fabric)",
+          "name": "YUNG's Better Strongholds",
           "identifier": {
-            "CurseForgeProject": 480684
+            "ModrinthProject": "kidLKymU"
           }
         },
         {
-          "name": "YUNG's Better Witch Huts (Fabric)",
+          "name": "YUNG's Better Witch Huts",
           "identifier": {
-            "CurseForgeProject": 631403
+            "ModrinthProject": "t5FRdP87"
           }
         },
         {
-          "name": "YUNG's Bridges (Fabric)",
+          "name": "YUNG's Bridges",
           "identifier": {
-            "CurseForgeProject": 590988
+            "ModrinthProject": "Ht4BfYp6"
           }
         },
         {
-          "name": "YUNG's Extras (Fabric)",
+          "name": "YUNG's Extras",
           "identifier": {
-            "CurseForgeProject": 590993
+            "ModrinthProject": "ZYgyPyfq"
           }
         }
       ]
