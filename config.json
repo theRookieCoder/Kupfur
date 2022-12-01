@@ -370,6 +370,18 @@
           }
         },
         {
+          "name": "ToolTipFix",
+          "identifier": {
+            "ModrinthProject": "2RKFTmiB"
+          }
+        },
+        {
+          "name": "Traveler's Titles",
+          "identifier": {
+            "ModrinthProject": "JtifUr64"
+          }
+        },
+        {
           "name": "Visual Workbench",
           "identifier": {
             "ModrinthProject": "kfqD1JRw"
