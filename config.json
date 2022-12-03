@@ -184,6 +184,12 @@
           }
         },
         {
+          "name": "First-person Model",
+          "identifier": {
+            "ModrinthProject": "H5XMjpHi"
+          }
+        },
+        {
           "name": "Forge Config API Port",
           "identifier": {
             "ModrinthProject": "ohNO6lps"
@@ -277,6 +283,12 @@
           "name": "No Chat Reports",
           "identifier": {
             "ModrinthProject": "qQyHxfxd"
+          }
+        },
+        {
+          "name": "Not Enough Animations",
+          "identifier": {
+            "ModrinthProject": "MPCX6s5C"
           }
         },
         {
