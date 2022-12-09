@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","file/Stay True 1.19.zip","file/Remove Terralith Intro Message.zip","immersive_weathering/biome_tinted_mossy_blocks","immersive_weathering/visual_waxed_iron_items","continuity/default","Immersive Weathering Generated Pack","continuity/glass_pane_culling_fix"]
+resourcePacks:["vanilla","file/Stay True 1.19.zip","file/Remove Terralith Intro Message.zip","immersive_weathering/biome_tinted_mossy_blocks","immersive_weathering/visual_waxed_iron_items","continuity/default","Immersive Weathering Generated Pack","continuity/glass_pane_culling_fix","file/EBE 1.1.zip","file/Icons 1.8pre2.zip","file/Default Dark Mode v1.3.4.zip","file/Selected 1.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -67,7 +67,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:true
@@ -174,7 +174,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.2
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

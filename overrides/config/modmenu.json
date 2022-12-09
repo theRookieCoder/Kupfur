@@ -3,7 +3,7 @@
     "count_libraries": true,
     "compact_list": true,
     "count_children": true,
-    "mods_button_style": "shrink",
+    "mods_button_style": "icon",
     "count_hidden_mods": true,
     "mod_count_location": "title_screen",
     "hide_mod_links": false,
