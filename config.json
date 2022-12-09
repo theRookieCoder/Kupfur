@@ -208,6 +208,12 @@
           }
         },
         {
+          "name": "ImmediatelyFast",
+          "identifier": {
+            "ModrinthProject": "5ZwdcRci"
+          }
+        },
+        {
           "name": "Immersive Portals",
           "identifier": {
             "ModrinthProject": "zJpHMkdD"

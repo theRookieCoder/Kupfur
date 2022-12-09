@@ -5,7 +5,6 @@ Kupfur is a Vanilla Plus modpack with a focus around world generation, small QOL
 Psst… try out my CLI mod and modpack manager [ferium](https://github.com/gorilla-devs/ferium) if you want a CLI mod manager and modpack installer.
 
 ## Mod List
-
 **['Slight' Gui Modifications](https://modrinth.com/mod/O7JVMrQX)**  
 _Allows 'slight' gui modifications_
 
@@ -135,6 +134,26 @@ _A mod that makes gameplay & movement more satisfying through the use of various
 | Open Source | [Yes](https://github.com/Mirsario/Minecraft-CameraOverhaul)            |
 | Author      | [Mirsario](https://modrinth.com/user/BrE0i5ig)            |
 | Categories  | decoration, utility            |
+
+**[Chunks fade in](https://modrinth.com/mod/JaNmzvA8)**  
+_A simple mod that adds fade-in animation for chunks!_
+
+|             |               |
+|-------------|---------------|
+| Source      | Modrinth `JaNmzvA8` |
+| Open Source | [Yes](https://github.com/kerudion/chunksfadein)            |
+| Author      | [kerudion](https://modrinth.com/user/4UUDD3CQ)            |
+| Categories  | utility            |
+
+**[CIT Resewn](https://modrinth.com/mod/otVJckYQ)**  
+_Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)_
+
+|             |               |
+|-------------|---------------|
+| Source      | Modrinth `otVJckYQ` |
+| Open Source | [Yes](https://github.com/SHsuperCM/CITResewn)            |
+| Author      | [shsupercm](https://modrinth.com/user/7vHIx75c)            |
+| Categories  | utility            |
 
 **[Clear Skies](https://modrinth.com/mod/xNK6XfRv)**  
 _Tiny mod that removes the banding at the horizon of Vanilla Minecraft._
@@ -296,6 +315,16 @@ _Memory usage optimizations_
 | Author      | [malte0811](https://modrinth.com/user/cXzLZ8YY)            |
 | Categories  | optimization, utility            |
 
+**[First-person Model](https://modrinth.com/mod/H5XMjpHi)**  
+_Enables the third-person Model in first-person_
+
+|             |               |
+|-------------|---------------|
+| Source      | Modrinth `H5XMjpHi` |
+| Open Source | [Yes](https://github.com/tr7zw/FirstPersonModel/)            |
+| Author      | [tr7zw](https://modrinth.com/user/Qnt13hO8)            |
+| Categories  | decoration, equipment, social            |
+
 **[Forge Config API Port](https://modrinth.com/mod/ohNO6lps)**  
 _Yes, you're reading that correctly. This is the whole Forge Config API ported to Fabric._
 
@@ -305,6 +334,16 @@ _Yes, you're reading that correctly. This is the whole Forge Config API ported t
 | Open Source | [Yes](https://github.com/Fuzss/forgeconfigapiport-fabric)            |
 | Author      | [Fuzs](https://modrinth.com/user/rHdGpxOA)            |
 | Categories  | library            |
+
+**[ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci)**  
+_Speed up immediate mode rendering in Minecraft_
+
+|             |               |
+|-------------|---------------|
+| Source      | Modrinth `5ZwdcRci` |
+| Open Source | [Yes](https://github.com/RaphiMC/ImmediatelyFast)            |
+| Author      | [RaphiMC](https://modrinth.com/user/XEedK03N)            |
+| Categories  | optimization            |
 
 **[Immersive Portals](https://modrinth.com/mod/zJpHMkdD)**  
 _See through portals and teleport seamlessly_
@@ -436,16 +475,6 @@ _dynamic data pack and registration, villager activities, custom map marker and 
 | Author      | [MehVahdJukaar](https://modrinth.com/user/BU21lLGA)            |
 | Categories  | library            |
 
-**[Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u)**  
-_A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more!_
-
-|             |               |
-|-------------|---------------|
-| Source      | Modrinth `u5Ic2U1u` |
-| Open Source | [Yes](https://github.com/Siphalor/mouse-wheelie)            |
-| Author      | [Siphalor](https://modrinth.com/user/JJJqUOvE)            |
-| Categories  | utility            |
-
 **[No Chat Reports](https://modrinth.com/mod/qQyHxfxd)**  
 _Makes chat unreportable (where possible)_
 
@@ -455,6 +484,16 @@ _Makes chat unreportable (where possible)_
 | Open Source | [Yes](https://github.com/Aizistral-Studios/No-Chat-Reports)            |
 | Author      | [robotkoer](https://modrinth.com/user/2avTeeAE), [Aizistral](https://modrinth.com/user/2n9TlxqP)            |
 | Categories  | social, utility            |
+
+**[Not Enough Animations](https://modrinth.com/mod/MPCX6s5C)**  
+_Bringing first-person animations to the third-person_
+
+|             |               |
+|-------------|---------------|
+| Source      | Modrinth `MPCX6s5C` |
+| Open Source | [Yes](https://github.com/tr7zw/NotEnoughAnimations)            |
+| Author      | [tr7zw](https://modrinth.com/user/Qnt13hO8)            |
+| Categories  | adventure, decoration            |
 
 **[Not Enough Crashes](https://modrinth.com/mod/yM94ont6)**  
 _When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant._
@@ -606,6 +645,26 @@ _A 1.18+ overworld expansion for Fabric and Forge, with tons of new biomes and c
 | Author      | [Stardust](https://modrinth.com/user/oRXQvVNJ)            |
 | Categories  | worldgen            |
 
+**[ToolTipFix](https://modrinth.com/mod/2RKFTmiB)**  
+_Fixes Tooltips from runnning off the screen._
+
+|             |               |
+|-------------|---------------|
+| Source      | Modrinth `2RKFTmiB` |
+| Open Source | [Yes](https://github.com/kyrptonaught/tooltipfix)            |
+| Author      | [kyrptonaught](https://modrinth.com/user/dTrHFjYJ)            |
+| Categories  | optimization, utility            |
+
+**[Traveler's Titles](https://modrinth.com/mod/JtifUr64)**  
+_Epic, RPG-like titles when entering biomes & dimensions!_
+
+|             |               |
+|-------------|---------------|
+| Source      | Modrinth `JtifUr64` |
+| Open Source | [Yes](https://github.com/YUNG-GANG/Travelers-Titles)            |
+| Author      | [YUNGNICKYOUNG](https://modrinth.com/user/HCGwycZf)            |
+| Categories  | adventure, decoration, utility            |
+
 **[Visual Workbench](https://modrinth.com/mod/kfqD1JRw)**  
 _Items stay inside of crafting tables and are also rendered on top. It's really fancy!_
 
@@ -634,7 +693,7 @@ _Displays the nearby world terrain, players, mobs, entities in the corner of you
 | Source      | CurseForge `263420` |
 | Open Source | No              |
 | Authors     | [xaero96](https://www.curseforge.com/members/12362980-xaero96?username=xaero96)              |
-| Categories  | Player Transport, Map and Information              |
+| Categories  | Map and Information, Player Transport              |
 
 **[Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)**  
 _Adds a fullscreen worldmap which shows you what you have explored in the world. Can work together with Xaero's Minimap._
@@ -644,7 +703,7 @@ _Adds a fullscreen worldmap which shows you what you have explored in the world.
 | Source      | CurseForge `317780` |
 | Open Source | No              |
 | Authors     | [xaero96](https://www.curseforge.com/members/12362980-xaero96?username=xaero96)              |
-| Categories  | Map and Information, Player Transport              |
+| Categories  | Player Transport, Map and Information              |
 
 **[YUNG's API](https://modrinth.com/mod/Ua7DFN59)**  
 _Library mod for YUNG's mods._
@@ -663,7 +722,7 @@ _A complete redesign of Minecraft's desert temples!_
 |-------------|---------------|
 | Source      | Modrinth `XNlO7sBv` |
 | Open Source | [Yes](https://github.com/YUNG-GANG/YUNGs-Better-Desert-Temples)            |
-| Author      | [YUNGNICKYOUNG](https://modrinth.com/user/HCGwycZf)            |
+| Author      | [YUNGNICKYOUNG](https://modrinth.com/user/HCGwycZf), [Tera458](https://modrinth.com/user/84fipHqw)            |
 | Categories  | adventure, decoration, worldgen            |
 
 **[YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5)**  
@@ -693,7 +752,7 @@ _A complete redesign of Minecraft's ocean monuments!_
 |-------------|---------------|
 | Source      | Modrinth `3dT9sgt4` |
 | Open Source | [Yes](https://github.com/YUNG-GANG/YUNGs-Better-Ocean-Monuments)            |
-| Author      | [YUNGNICKYOUNG](https://modrinth.com/user/HCGwycZf)            |
+| Author      | [YUNGNICKYOUNG](https://modrinth.com/user/HCGwycZf), [Tera458](https://modrinth.com/user/84fipHqw)            |
 | Categories  | adventure, decoration, worldgen            |
 
 **[YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU)**  
