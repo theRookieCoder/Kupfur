@@ -5,6 +5,7 @@ Kupfur is a Vanilla Plus modpack with a focus around world generation, small QOL
 Psst… try out my CLI mod and modpack manager [ferium](https://github.com/gorilla-devs/ferium) if you want a CLI mod manager and modpack installer.
 
 ## Mod List
+
 **['Slight' Gui Modifications](https://modrinth.com/mod/O7JVMrQX)**  
 _Allows 'slight' gui modifications_
 
@@ -93,7 +94,7 @@ _Improves third-person camera view._
 | Source      | CurseForge `435044` |
 | Open Source | No              |
 | Authors     | [Socolio](https://www.curseforge.com/members/32582887-socolio?username=socolio), [DreenDexTwitch](https://www.curseforge.com/members/22475527-dreendextwitch?username=dreendextwitch)              |
-| Categories  | Cosmetic, Adventure and RPG              |
+| Categories  | Adventure and RPG, Cosmetic              |
 
 **[BetterF3](https://modrinth.com/mod/8shC1gFX)**  
 _BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD._
@@ -331,7 +332,7 @@ _Yes, you're reading that correctly. This is the whole Forge Config API ported t
 |             |               |
 |-------------|---------------|
 | Source      | Modrinth `ohNO6lps` |
-| Open Source | [Yes](https://github.com/Fuzss/forgeconfigapiport-fabric)            |
+| Open Source | [Yes](https://github.com/Fuzss/forgeconfigapiport)            |
 | Author      | [Fuzs](https://modrinth.com/user/rHdGpxOA)            |
 | Categories  | library            |
 
@@ -403,7 +404,7 @@ _Forge/Fabric mod that adds the ability to walk around while in inventories_
 | Source      | Modrinth `REfW2AEX` |
 | Open Source | [Yes](https://github.com/PieKing1215/InvMove)            |
 | Author      | [PieKing1215](https://modrinth.com/user/U9xrZlQH)            |
-| Categories  | utility            |
+| Categories  | transportation, utility            |
 
 **[Iris Shaders](https://modrinth.com/mod/YL57xq9U)**  
 _A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs_
@@ -581,7 +582,7 @@ _Adds more variations of vanilla structures and features such as a Jungle Fortre
 |             |               |
 |-------------|---------------|
 | Source      | Modrinth `muf0XoRe` |
-| Open Source | [Yes](https://github.com/TelepathicGrunt/RepurposedStructures/tree/latest-released-Quilt)            |
+| Open Source | No            |
 | Author      | [TelepathicGrunt](https://modrinth.com/user/IjLEI1nA)            |
 | Categories  | worldgen            |
 
@@ -703,7 +704,7 @@ _Adds a fullscreen worldmap which shows you what you have explored in the world.
 | Source      | CurseForge `317780` |
 | Open Source | No              |
 | Authors     | [xaero96](https://www.curseforge.com/members/12362980-xaero96?username=xaero96)              |
-| Categories  | Player Transport, Map and Information              |
+| Categories  | Map and Information, Player Transport              |
 
 **[YUNG's API](https://modrinth.com/mod/Ua7DFN59)**  
 _Library mod for YUNG's mods._
