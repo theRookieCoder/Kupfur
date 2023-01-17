@@ -2,7 +2,7 @@
 
 Kupfur is a Vanilla Plus modpack with a focus around world generation, small QOL additions, and not adding radical game mechanics.
 
-Psst… try out my CLI mod and modpack manager [ferium](https://github.com/gorilla-devs/ferium) if you want a CLI mod manager and modpack installer.
+Psst… check out [ferium](https://github.com/gorilla-devs/ferium), my CLI mod manager and modpack installer.
 
 ## Mod List
 
