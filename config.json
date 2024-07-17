@@ -1,6 +1,4 @@
 {
-  "active_profile": 0,
-  "active_modpack": 0,
   "profiles": [
     {
       "name": "Kupfur",
@@ -59,7 +57,7 @@
         {
           "name": "Better Third Person",
           "identifier": {
-            "CurseForgeProject": 435044
+            "ModrinthProject": "G1s2WpNo"
           }
         },
         {
@@ -69,7 +67,7 @@
           }
         },
         {
-          "name": "Blur (Fabric)",
+          "name": "Blur+ (Fabric)",
           "identifier": {
             "ModrinthProject": "NK39zBp2"
           }
@@ -172,7 +170,7 @@
           }
         },
         {
-          "name": "EntityCulling",
+          "name": "Entity Culling",
           "identifier": {
             "ModrinthProject": "NNAgCjsB"
           }
@@ -334,7 +332,7 @@
           }
         },
         {
-          "name": "Quilted Fabric API / Quilt Standard Libraries",
+          "name": "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)",
           "identifier": {
             "ModrinthProject": "qvIfYCYJ"
           }
@@ -352,7 +350,7 @@
           }
         },
         {
-          "name": "Repurposed Structures - Fabric",
+          "name": "Repurposed Structures - Quilt/Fabric",
           "identifier": {
             "ModrinthProject": "muf0XoRe"
           }
@@ -420,13 +418,13 @@
         {
           "name": "Xaero's Minimap",
           "identifier": {
-            "CurseForgeProject": 263420
+            "ModrinthProject": "1bokaNcj"
           }
         },
         {
           "name": "Xaero's World Map",
           "identifier": {
-            "CurseForgeProject": 317780
+            "ModrinthProject": "NcUtCpym"
           }
         },
         {
@@ -485,6 +483,5 @@
         }
       ]
     }
-  ],
-  "modpacks": []
+  ]
 }
